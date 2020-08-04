@@ -1,0 +1,17 @@
+{
+  "name": "java_srypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/preset-react": "^7.9.4",
+    "@babel/preset-typescript": "^7.9.0"
+  },
+  "scripts": {
+    "start": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
